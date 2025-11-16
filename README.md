@@ -1,6 +1,6 @@
 # Thymic Epithelial Tumor
 
-Scripts used in the below study. Written by Seongyeol Park
+Scripts used in the below study. Written by Seongyeol Park and Kijong Yi
 
 Integrative Multi-omic Classification Reveals Distinct Origins and Evolutionary Trajectories of Thymic Epithelial Tumors
 
